@@ -107,10 +107,14 @@ img{
 }
 .container1-cards{
     display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    flex-shrink: 1;
+    align-items: center;
+    gap: 45px;
     padding: 20px;
+}
+.container1-card{
+    width: 200px;
+    height: 200px;
+   
 }
 .container2{
     background-color: #f0a830;
